@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProjetoFinalDev1.Domain.Test/ProjetoFinalDev1.Domain.Test.csproj" />
+  <Project Path="ProjetoFinalDev1.Domain/ProjetoFinalDev1.Domain.csproj" />
+</Solution>
