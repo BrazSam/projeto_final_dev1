@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ProjetoFinalDev1.Domain.Test/ProjetoFinalDev1.Domain.Test.csproj" />
   <Project Path="ProjetoFinalDev1.Domain/ProjetoFinalDev1.Domain.csproj" />
+  <Project Path="ProjetoFinalDev1.Infrastructure/ProjetoFinalDev1.Infrastructure.csproj" Id="83108c9a-c7fd-47a5-8234-c65a8ecb55d9" />
 </Solution>
