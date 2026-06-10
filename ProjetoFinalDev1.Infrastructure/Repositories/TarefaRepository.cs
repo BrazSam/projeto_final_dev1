@@ -7,8 +7,8 @@ using System.Data.Common;
 namespace ProjetoFinalDev1.Infrastructure.Repositories;
 public class TarefaRepository : ITarefaRepository, IAsyncDisposable
 {
-private DbConnection? _connection;
-private bool _disposed = false;
+    private DbConnection? _connection;
+    private bool _disposed = false;
 
     public TarefaRepository()
     {

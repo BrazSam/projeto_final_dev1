@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="ProjetoFinalDev1.Application.Tests/ProjetoFinalDev1.Application.Tests.csproj" Id="fb49a0fc-0d89-45a1-bae5-52a3cb3c18a7" />
+  <Project Path="ProjetoFinalDev1.Application/ProjetoFinalDev1.Application.csproj" Id="024cc8ae-d7e7-422f-be4f-aa908f983f4e" />
   <Project Path="ProjetoFinalDev1.Domain.Test/ProjetoFinalDev1.Domain.Test.csproj" />
   <Project Path="ProjetoFinalDev1.Domain/ProjetoFinalDev1.Domain.csproj" />
+  <Project Path="ProjetoFinalDev1.Infrastructure.Tests/ProjetoFinalDev1.Infrastructure.Tests.csproj" Id="f8068147-69d1-4e15-af6d-94d2ffca893e" />
   <Project Path="ProjetoFinalDev1.Infrastructure/ProjetoFinalDev1.Infrastructure.csproj" Id="83108c9a-c7fd-47a5-8234-c65a8ecb55d9" />
 </Solution>
